@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-I am an **Artificial Intelligence & Software Engineer** focused on building autonomous multi-modal systems, deep learning vision classifiers, and scalable intelligent web applications. Experienced across **Large Language Models (LLMs), Computer Vision (MediaPipe, YOLOv8), Speech Processing (Whisper, Vosk), Graph Algorithms, and Modern Frontend (React 18, Three.js)**.
+I am an **Artificial Intelligence & Software Engineer** focused on building autonomous multi-modal systems, multi-agent frameworks, deep learning vision models, and scalable intelligent web architectures. Experienced in **Predictive Machine Learning (XGBoost, SHAP), Multi-Agent Orchestration (LangChain), Computer Vision (MediaPipe, YOLOv8), Speech Processing (Whisper, Vosk), and Modern Full Stack (React 18, Three.js, FastAPI)**.
 
+- 📄 **Research Publication:** Co-author of *"Agentic AI for Real-Time Air Quality Prediction and Autonomous Environmental Response"* (IEEE format with multi-agent orchestration & XGBoost $R^2 = 0.9929$)
 - 🎓 **Final Year Project (FYP):** HireGenAI — Multi-Modal Autonomous AI Interview System with 3D Avatar, Real-time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
 - 🏆 **Harvard CS50 AI:** Complete 12-Project AI Suite (100% Verified Autograder Score)
-- 🚀 **Core Expertise:** Multi-Modal Agentic Workflows, Real-Time Audio/Video Inference, and Transformer Architectures
 
 ---
 
@@ -39,8 +39,9 @@ I am an **Artificial Intelligence & Software Engineer** focused on building auto
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-blueviolet?style=flat-square"/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
@@ -50,21 +51,21 @@ I am an **Artificial Intelligence & Software Engineer** focused on building auto
   <tr>
     <td width="20%"><b>AI Paradigms</b></td>
     <td>
-      <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA--3.1-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-LangChain-teal?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLM-Groq%20%2F%20Gemini%20%2F%20GPT-orange?style=flat-square"/>
       <img src="https://img.shields.io/badge/Speech-Whisper%20%26%20Vosk-teal?style=flat-square"/>
       <img src="https://img.shields.io/badge/Reinforcement%20Learning-Q--Learning-crimson?style=flat-square"/>
       <img src="https://img.shields.io/badge/Transformers-BERT%20Attention-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Optimization-CSP%20%26%20AC--3-yellow?style=flat-square"/>
       <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax-purple?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="20%"><b>Frontend & Systems</b></td>
     <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Three.js-3D%20Avatar-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nginx-SSL-009639?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
@@ -78,15 +79,26 @@ I am an **Artificial Intelligence & Software Engineer** focused on building auto
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/ahadsuri16/Agentic-AI-Air-Quality-Prediction">Agentic AI for Real-Time Air Quality Prediction</a></h3>
+      <p><b>Research Paper & Platform:</b> An autonomous environmental intelligence system integrating an <b>XGBoost</b> regressor ($R^2 = 0.9929$, $MAE = 0.85$), <b>SHAP</b> explainable AI, asynchronous <b>FastAPI</b> backend, and a <b>LangChain multi-agent framework</b> with Streamlit dashboard and simulated IoT sensor network. <i>(Full research paper PDF attached in repository)</i>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Paper-IEEE%20Format-00629B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/XGBoost-R%C2%B2%3D0.9929-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Multi--Agent-LangChain-teal?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Streamlit-009688?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/ahadsuri16/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI Powered Interview System</a></h3>
-      <p><b>Final Year Project:</b> An autonomous recruitment ecosystem featuring an interactive <b>3D virtual interviewer avatar (Three.js)</b>, resume parsing OCR, real-time speech dialogue (Vosk/Whisper), dynamic adaptive questioning via <b>Groq LLaMA-3.1</b>, computer vision proctoring & gaze estimation (MediaPipe & YOLOv8), and automated PDF diagnostic evaluations.</p>
+      <p><b>Final Year Project:</b> An autonomous recruitment ecosystem featuring an interactive <b>3D virtual interviewer avatar (Three.js)</b>, resume parsing OCR, real-time speech dialogue (Vosk/Whisper), dynamic adaptive questioning via <b>Groq LLaMA-3.1</b>, computer vision proctoring (MediaPipe & YOLOv8), and automated PDF diagnostic evaluations.</p>
       <p>
         <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/>
         <img src="https://img.shields.io/badge/FastAPI-Python-3776AB?style=flat-square"/>
         <img src="https://img.shields.io/badge/MediaPipe-YOLOv8-0097A7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Groq-LLaMA--3.1-orange?style=flat-square"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/ahadsuri16/CS50AI-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
       <p>A master suite of 12 complete AI applications: Graph Search (Degrees), Minimax with Alpha-Beta (TicTacToe), Propositional Model Checking (Knights), Knowledge Inference (Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), CSP AC-3 (Crossword), KNN ML (Shopping), Q-Learning (Nim), Deep Vision CNNs (Traffic), and BERT Attention (Transformers).</p>
@@ -97,22 +109,12 @@ I am an **Artificial Intelligence & Software Engineer** focused on building auto
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/ahadsuri16/agentic-ai-assistant">Agentic AI Assistant</a></h3>
       <p>An autonomous agent architecture featuring multi-step reasoning, external tool execution, state management, and memory integration. Capable of handling complex multi-modal workflows and automated decision-making.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LLM%20Agents-Autonomous-blue?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/ahadsuri16/My-Portfolio---React-">Interactive React Portfolio</a></h3>
-      <p>A responsive, modern web portfolio engineered with React showcasing interactive project demos, fluid glassmorphism aesthetics, and continuous deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/CSS3-Modern-blue?style=flat-square"/>
       </p>
     </td>
   </tr>
