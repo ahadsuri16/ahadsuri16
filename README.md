@@ -12,11 +12,11 @@
 
 ### 👨‍💻 About Me
 
-I am an **Artificial Intelligence & Software Engineer** focused on designing intelligent systems, autonomous agents, and scalable machine learning solutions. With deep practical and theoretical expertise across **Classical Search, Probabilistic Reasoning, Reinforcement Learning, Computer Vision (CNNs), and Transformer Architectures (BERT & LLMs)**, I build production-grade applications that solve high-impact real-world problems.
+I am an **Artificial Intelligence & Software Engineer** focused on building autonomous multi-modal systems, deep learning vision classifiers, and scalable intelligent web applications. Experienced across **Large Language Models (LLMs), Computer Vision (MediaPipe, YOLOv8), Speech Processing (Whisper, Vosk), Graph Algorithms, and Modern Frontend (React 18, Three.js)**.
 
-- 🎓 **Specialization:** Artificial Intelligence, Deep Learning, Natural Language Processing, and Agentic Systems
-- 🏆 **Credentials:** Harvard University CS50's Introduction to Artificial Intelligence with Python (Complete 12-Project Suite with 100% Verified Autograder Score)
-- 🚀 **Currently Building:** Autonomous Multi-Agent Workflows, Retrieval-Augmented Generation (RAG) Systems, and Deep Learning Vision Classifiers
+- 🎓 **Final Year Project (FYP):** HireGenAI — Multi-Modal Autonomous AI Interview System with 3D Avatar, Real-time Speech/Vision Proctoring, and Automated Diagnostic Evaluation
+- 🏆 **Harvard CS50 AI:** Complete 12-Project AI Suite (100% Verified Autograder Score)
+- 🚀 **Core Expertise:** Multi-Modal Agentic Workflows, Real-Time Audio/Video Inference, and Transformer Architectures
 
 ---
 
@@ -43,31 +43,30 @@ I am an **Artificial Intelligence & Software Engineer** focused on designing int
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLTK-154f5b?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/YOLOv8-Pose-00FFFF?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td width="20%"><b>AI Paradigms</b></td>
     <td>
+      <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA--3.1-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Speech-Whisper%20%26%20Vosk-teal?style=flat-square"/>
       <img src="https://img.shields.io/badge/Reinforcement%20Learning-Q--Learning-crimson?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Transformers-BERT%20%26%20Attention-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Graph%20Search-BFS%20%2F%20A*-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Adversarial-Minimax%20w%2F%20Alpha--Beta-red?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Transformers-BERT%20Attention-blue?style=flat-square"/>
       <img src="https://img.shields.io/badge/Optimization-CSP%20%26%20AC--3-yellow?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Probabilistic-Bayesian%20Networks-green?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Markov%20Chains-PageRank-purple?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Search-BFS%20%2F%20Minimax-purple?style=flat-square"/>
     </td>
   </tr>
   <tr>
-    <td width="20%"><b>Web & Systems</b></td>
+    <td width="20%"><b>Frontend & Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Three.js-3D%20Avatar-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Nginx-SSL-009639?style=flat-square&logo=nginx&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -79,33 +78,33 @@ I am an **Artificial Intelligence & Software Engineer** focused on designing int
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/ahadsuri16/FYP-HireGenAI-AI-Powered-Interview-System">FYP: HireGenAI — AI Powered Interview System</a></h3>
+      <p><b>Final Year Project:</b> An autonomous recruitment ecosystem featuring an interactive <b>3D virtual interviewer avatar (Three.js)</b>, resume parsing OCR, real-time speech dialogue (Vosk/Whisper), dynamic adaptive questioning via <b>Groq LLaMA-3.1</b>, computer vision proctoring & gaze estimation (MediaPipe & YOLOv8), and automated PDF diagnostic evaluations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%2018-Three.js-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Python-3776AB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MediaPipe-YOLOv8-0097A7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Groq-LLaMA--3.1-orange?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/ahadsuri16/CS50AI-Artificial-Intelligence-Projects">Harvard CS50AI: 12-Project Master Portfolio</a></h3>
-      <p>A master suite of 12 end-to-end AI applications covering Classical Search (BFS, Minimax & Alpha-Beta), Knowledge Representation (Model Checking & Minesweeper Inference), Bayesian Networks (Heredity), Markov Chains (PageRank), Constraint Satisfaction (AC-3 Crossword Generator), Supervised ML (KNN), Q-Learning, Deep Vision CNNs, and Transformer Self-Attention Visualizations.</p>
+      <p>A master suite of 12 complete AI applications: Graph Search (Degrees), Minimax with Alpha-Beta (TicTacToe), Propositional Model Checking (Knights), Knowledge Inference (Minesweeper), Markov Chains (PageRank), Bayesian Networks (Heredity), CSP AC-3 (Crossword), KNN ML (Shopping), Q-Learning (Nim), Deep Vision CNNs (Traffic), and BERT Attention (Transformers).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
         <img src="https://img.shields.io/badge/CS50%20AI-100%25%20Verified-brightgreen?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/ahadsuri16/agentic-ai-assistant">Agentic AI Assistant</a></h3>
-      <p>An autonomous agent framework featuring multi-step reasoning, external tool execution, state management, and memory integration. Capable of handling complex multi-modal workflows and automated decision-making.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LLM%20Agents-Autonomous-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RAG-Vector%20Search-teal?style=flat-square"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/ahadsuri16/InternHelpDesk">InternHelpDesk</a></h3>
-      <p>An enterprise support and ticketing portal designed for automated ticket triage, role-based workflows, and contextual resource recommendations.</p>
+      <h3>🤖 <a href="https://github.com/ahadsuri16/agentic-ai-assistant">Agentic AI Assistant</a></h3>
+      <p>An autonomous agent architecture featuring multi-step reasoning, external tool execution, state management, and memory integration. Capable of handling complex multi-modal workflows and automated decision-making.</p>
       <p>
-        <img src="https://img.shields.io/badge/Full%20Stack-Web-success?style=flat-square"/>
-        <img src="https://img.shields.io/badge/API-RESTful-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM%20Agents-Autonomous-blue?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
